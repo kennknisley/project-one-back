@@ -1,2 +1,0 @@
-#Google API
-g_key = "AIzaSyDoZ11D6C7P1Z4VK4WJb7zeutECVqfpKW4"
